@@ -1,0 +1,3 @@
+rootProject.name = 'enero_labs_1940'
+
+include ':app'
